@@ -4,11 +4,6 @@
   "description": "A calculator extension for Ulauncher",
   "developer_name": "Tuan pham",
   "icon": "images/icon.svg",
-  "dependencies": {
-    "python": {
-      "file": "requirements.txt"
-    }
-  },
   "options": {
     "query_debounce": 0.1
   },
@@ -22,3 +17,4 @@
     }
   ]
 }
+
