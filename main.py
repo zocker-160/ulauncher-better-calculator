@@ -1,5 +1,7 @@
 import os
+
 from py_expression_eval import Parser
+
 from ulauncher.api.client.Extension import Extension
 from ulauncher.api.client.EventListener import EventListener
 from ulauncher.api.shared.event import KeywordQueryEvent, ItemEnterEvent
